@@ -2,6 +2,8 @@
 
 int main(void) {
 
-printf("Rares Ciobanu\n")
+printf("Rares Ciobanu\n");
+  
+  return 0;
 
 }
